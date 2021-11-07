@@ -3,10 +3,10 @@
 - 15260038 Furkan Ali Ünal
 
 Sorular:
-- *Transform fonksiyonu ne işe yarar?*
-- *PC-1 Fonksiyonu ne işe yarar?*
-- *S-Box fonksiyonu ne işe yarar?*
-- *PlainText 1 bitlerinden oluşan bir girdide anahtar 0 bitleri girilir ise ilk roundun çıktısı ne olur?*
+- [*Transform fonksiyonu ne işe yarar?*](#soru-1-transform-fonksiyonu-ne-i%C5%9Fe-yarar)
+- [*PC-1 Fonksiyonu ne işe yarar?*](#soru-2-pc-1-fonksiyonu-ne-i%C5%9Fe-yarar)
+- [*S-Box fonksiyonu ne işe yarar?*](#soru-3-s-box-fonksiyonu-ne-i%C5%9Fe-yarar)
+- [*PlainText 1 bitlerinden oluşan bir girdide anahtar 0 bitleri girilir ise ilk roundun çıktısı ne olur?*](#soru-4-plaintext-1-bitlerinden-olu%C5%9Fan-bir-girdide-anahtar-0-bitleri-girilir-ise-ilk-roundun-%C3%A7%C4%B1kt%C4%B1s%C4%B1-ne-olur)
 
 
 <br>
